@@ -1,4 +1,4 @@
-# ReactJS Machine Coding Rounds CheatSheet
+# React All Hooks Tuts @RoadsideCoderYT
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -39,7 +39,11 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Roadmap for ReactJS Interview Prep
+
+1. Complete the hooks by going through React Hooks Tuts repo, referred from Roadside Coder YT
+
+2. Watch Render playlist from ReactJS Codevolution YT
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
