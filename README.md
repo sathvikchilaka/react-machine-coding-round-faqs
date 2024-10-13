@@ -1,4 +1,4 @@
-# React All Hooks Tuts @RoadsideCoderYT
+# React Components Tuts @RoadsideCoderYT
 
 This project has most of the basic react components and gets you on board with the ReactJS interview prep.
 
