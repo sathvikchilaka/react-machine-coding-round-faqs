@@ -7,13 +7,13 @@ const useThrottleEffect = (value, delay) => {
     useEffect(() => {
         const handler = setTimeout(()=>{
             let now = Date.now();
-            const timeElapsed = now - lastRef.current;
+            const timeElapsed = now - lastRef.current; 
 
             if(timeElapsed >= delay){
                 setThrottledValue(value)
                 lastRef.current = now;
             }
-        }, delay - (Date.now() - lastRef.current))
+          }, delay - (Date.now() - lastRef.current))
     
       return () => {
         clearTimeout(handler)
