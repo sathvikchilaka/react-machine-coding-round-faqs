@@ -6,7 +6,7 @@ This project has most of the basic react components and gets you on board with t
 
 0. Check out [FrontendGeek](https://frontendgeek.com/)
 
-1. Complete the hooks by going through React Hooks Tuts repo, referred from Roadside Coder YT. Learn all of those especially new React 18 hooks.
+1. Complete the hooks by going through React Hooks Tuts repo, referred from Roadside Coder YT. Learn all of those especially new React 18 hooks like useSyncExternalStore, useInsertionEffect... 
 
 2. Watch Render playlist from ReactJS Codevolution YT.
 
